@@ -1,1 +1,1 @@
-Linux
+it typically prints the kernel name Linux
